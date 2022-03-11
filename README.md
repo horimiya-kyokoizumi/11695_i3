@@ -1,1 +1,2 @@
 # 11695_i3
+This repository provides a notebook and sample data to illustrate how a PyTorch model can be converted to a PyTorch Lightning model. It also demonstrates how logging and profiling features can be added to the model training, making it easier to improve production machine learning systems.
